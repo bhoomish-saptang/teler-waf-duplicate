@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/teler-sh/teler-waf"
+	"github.com/bhoomish-saptang/teler-waf-duplicate"
 	"github.com/teler-sh/teler-waf/request"
 	"github.com/teler-sh/teler-waf/threat"
 )
